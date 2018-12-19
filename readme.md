@@ -14,8 +14,10 @@ Artificial Neural Network, and a Convolutional Neural Network. The Artificial Ne
 the best results with an average error of 21 hz on the training set and 28 hz on the test set.
 
 ## Getting Started
+Watch the video presentation here:
+https://www.youtube.com/watch?v=GYuhhdDIpAo&t=14s
 
-Definitely read the report if you're interested in this project.
+Aslo, definitely read the report if you're interested in this project.
 
 ## Authors
 
